@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tentamenhydroph00lynggoog_0368.png"; bbox 0 0 4616 6122; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 196 4517 615 4636">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 196 4517 615 4636">
+     <span class='ocr_line' id='line_1_1' title="bbox 196 4517 615 4636; baseline -0.021 -28"><span class='ocrx_word' id='word_1_1' title='bbox 196 4517 456 4629; x_wconf 62' lang='lat' dir='ltr'><em>(⁴anan</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 484 4522 615 4636; x_wconf 51' lang='lat' dir='ltr'><em>restem.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 146 4721 423 4783">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 146 4721 423 4783">
+     <span class='ocr_line' id='line_1_2' title="bbox 146 4721 423 4783; baseline -0.011 -2"><span class='ocrx_word' id='word_1_3' title='bbox 146 4729 171 4749; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_4' title='bbox 199 4721 423 4783; x_wconf 44' lang='grc' dir='ltr'><em>»ψ’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2312 6116">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2312 6116">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2312 6116; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 2312 6116; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
